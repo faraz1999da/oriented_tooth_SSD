@@ -19,7 +19,7 @@ This project implements a deep learning–based object detection system designed
 
 ## 🗂 Dataset  
 - A **specialized dental dataset** was annotated in collaboration with a dental expert.  
-- Annotation performed using **[CVAT](https://cvat.org/) (Computer Vision Annotation Tool)**.  
+- Annotation performed using **[CVAT](https://cvat.ai/) (Computer Vision Annotation Tool)**.  
 - Ensured high-quality **ground truth data** for robust training and evaluation.  
 
 ## 🚀 Key Features  
